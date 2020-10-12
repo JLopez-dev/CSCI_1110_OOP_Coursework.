@@ -1,1 +1,1 @@
-# CSCI_1110_OOP_Coursework.
+# CSCI_1116_Algorithms_&_Data_Coursework.
